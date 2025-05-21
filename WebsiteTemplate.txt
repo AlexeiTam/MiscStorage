@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+
+
+<html>
+
+	<head>
+		<title>
+
+			Oh hi Mark!
+
+		</title>
+
+	</head>
+
+
+	<body>
+
+		<h1> the mitochondria is the powerhouse of the cell </h1>
+
+		<h1> noodles noodles noodles noodles noodles noodles </h1>
+
+		<h1> "Ang Wakas" has changed my brain chemistry forever and idk what to do about it </h1>
+
+
+		<p>  You use this to make a pragraph </p>
+
+		<ol>  
+			<li> You use this to make numbered lists </li>
+			<li> like so </li>
+			<li> <a href="https://library.uic.edu/"> I kind of wanna watch High School Frenemy rn.... </a> </li>
+		
+		</ol>
+
+		<ul>
+
+			<li> or just add bulletpoints </li>
+		</ul>
+
+		<ol>
+
+			<li> "Autobiography of Red" by Anne Carson </li>
+			<li> "cien anos de soledad" by Gabriel Garcia Marquez </li>
+			<li> "The Duniazat" by Salman Rushdie </li>
+
+			
+		</ol>
+
+		<ul>
+
+			<li> Umaga na sa 'kin </li>
+			<li> Ngunit ay bituin at buwan pa rin </li>
+			<li> ang 'yong nakikita, parang pumipinkit ka pa</li>
+
+			<li> Kahit ilang dagat man ang pagitan na 'tin</li>
+			<li> Hanggat ikaw'y abot-tanaw, ito'y lalakbayin</li>
+
+			<li> 'Wag ka na magduda pa<, 'Di mapagkakaila</li>
+			<li> Magkaiba man ang ating mundo, tataya pa 'rin sa 'yo </li>
+
+			<li> Saan man mapadpad, madala o malipat</li>
+			<li> Magkaiba man ang ating mundo, tataya pa 'rin sa 'yo </li>
+
+			<li> (Kahit na) malayo </li>
+			<li> (Kahit na) 'di kabisado </li>
+			<li> (Kahit na) mundo'y magbago </li>
+
+			<li> Kahit na, Kahit na </li>
+
+			<li> (Kahit na) walang masabi </li>
+			<li> (Kahit na) nandito palagi </li>
+			<li> (Kahit na) mananatili </li>
+			
+			
+		</ul>
+
+
+	<footer> Alexei Tam, 2nd year</footer>
+
+
+		
+	</body>
+
+
+
+
+</html>
